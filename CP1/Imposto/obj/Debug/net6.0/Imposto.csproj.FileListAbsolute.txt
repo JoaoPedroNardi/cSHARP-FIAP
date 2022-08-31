@@ -1,0 +1,15 @@
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\bin\Debug\net6.0\Imposto.exe
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\bin\Debug\net6.0\Imposto.deps.json
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\bin\Debug\net6.0\Imposto.runtimeconfig.json
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\bin\Debug\net6.0\Imposto.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\bin\Debug\net6.0\Imposto.pdb
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.csproj.AssemblyReference.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.AssemblyInfoInputs.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.AssemblyInfo.cs
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.csproj.CoreCompileInputs.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\refint\Imposto.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.pdb
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\Imposto.genruntimeconfig.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Imposto\obj\Debug\net6.0\ref\Imposto.dll
