@@ -1,0 +1,15 @@
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\bin\Debug\net6.0\Eleicao.exe
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\bin\Debug\net6.0\Eleicao.deps.json
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\bin\Debug\net6.0\Eleicao.runtimeconfig.json
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\bin\Debug\net6.0\Eleicao.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\bin\Debug\net6.0\Eleicao.pdb
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.csproj.AssemblyReference.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.AssemblyInfoInputs.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.AssemblyInfo.cs
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.csproj.CoreCompileInputs.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\refint\Eleicao.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.pdb
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\Eleicao.genruntimeconfig.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Eleicao\obj\Debug\net6.0\ref\Eleicao.dll

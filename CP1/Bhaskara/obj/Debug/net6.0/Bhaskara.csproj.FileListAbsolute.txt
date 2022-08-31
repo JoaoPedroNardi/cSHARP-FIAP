@@ -1,0 +1,15 @@
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\bin\Debug\net6.0\Bhaskara.exe
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\bin\Debug\net6.0\Bhaskara.deps.json
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\bin\Debug\net6.0\Bhaskara.runtimeconfig.json
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\bin\Debug\net6.0\Bhaskara.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\bin\Debug\net6.0\Bhaskara.pdb
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.csproj.AssemblyReference.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.AssemblyInfoInputs.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.AssemblyInfo.cs
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\refint\Bhaskara.dll
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.pdb
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\Bhaskara.genruntimeconfig.cache
+C:\Users\jpmar\OneDrive\Área de Trabalho\CP1\Bhaskara\obj\Debug\net6.0\ref\Bhaskara.dll
